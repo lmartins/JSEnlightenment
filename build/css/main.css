@@ -1,0 +1,1 @@
+*{box-sizing:border-box;}body{font-family:"Proxima Nova",Helvetica;padding:0;margin:0;color:#4d4d4d;}.Page{max-width:90%;margin:0 auto;padding:1em;background:#eee;}.board{width:300px;}.board td{border:1px solid #cccccc;padding:0.75em;}.board td.active{border-color:#5f99f7;background:rgba(95, 153, 246, 0.1);}
